@@ -1,20 +1,24 @@
 <h1 align="center">Hi 👋, I'm Vishnupriyan S</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://omarjarvis.medium.com/why-do-i-want-to-become-a-software-engineer-ed189a187a32'>
+<h3 align="center">Driven and proactive B.Tech CSE (AI & ML) student deeply enthusiastic about the realms of artificial intelligence and machine learning. empower me to actively shape inventive solutions in the fields of AI and ML.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishnus2003&label=Profile%20views&color=0e75b6&style=flat" alt="vishnus2003" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishnus2003" alt="vishnus2003" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://twitter.com/https://x.com/imvishnu200" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/imvishnu200?logo=twitter&style=for-the-badge" alt="https://x.com/imvishnu200" /></a> </p>
 
-- 💬 Ask me about **Deep Learning**
+- 💬 Ask me about **Deep Learning,Computer Vision**
 
 - 📫 How to reach me **vishnupriyan.s2003@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/vishnupriyan s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishnupriyan s" height="30" width="40" /></a>
+<a href="https://codepen.io/https://codepen.io/vishnus2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/vishnus2003" height="30" width="40" /></a>
+<a href="https://twitter.com/https://x.com/imvishnu200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/imvishnu200" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/vishnupriyan-s-574088247/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vishnupriyan-s-574088247/" height="30" width="40" /></a>
+<a href="https://kaggle.com/https://www.kaggle.com/vishnupriyans2003#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/vishnupriyans2003#" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/https://www.codechef.com/users/vishnupriyans2" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/vishnupriyans2" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/u/vishnus2003/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/vishnus2003/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
